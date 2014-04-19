@@ -1,0 +1,24 @@
+{
+  "name": "sequelize-grunt-mocha-example",
+  "version": "0.0.0",
+  "description": "tests sequelize",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seth Lakowske",
+  "license": "GPLv2",
+  "dependencies": {
+    "sequelize": "~1.7.0",
+    "sqlite3": "~2.2.0",
+    "async": "~0.2.10",
+    "uuid": "~1.4.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "mocha": "~1.17.1",
+    "grunt-mocha-test": "~0.10.2",
+    "chai": "~1.9.1",
+    "sinon": "~1.9.1"
+  }
+}

@@ -1,4 +1,5 @@
-sequelize-grunt-mocha-example
-=============================
+sequelize-grunt-nodeunit-example
+================================
 
-An example of using grunt an mocha to unit test sequelize
+An example of using Grunt and Mocha to test Sequelize.
+
